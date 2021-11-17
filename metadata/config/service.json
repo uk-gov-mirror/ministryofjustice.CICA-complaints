@@ -3,5 +3,6 @@
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
   "name": "Complain to the CICA",
-  "phase": "none"
+  "phase": "none",
+  "serviceEmailAddress": "CustomerResolutionTeam@cica.gov.uk"
 }
